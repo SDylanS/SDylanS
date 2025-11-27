@@ -1,4 +1,3 @@
-<h2 align="center">Hi 👋, I'm Dylan</h2>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=380&size=18&lines=CS+Student+%40+PUT;Just+trying+to+code..." alt="Typing SVG" /></a>
